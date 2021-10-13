@@ -1,0 +1,267 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/b743975/
+1z1P9lrheLkkk3hxvr51aVXUUS9	.idea/workspace.xml	/^  <component name="ProjectId" id="1z1P9lrheLkkk3hxvr51aVXUUS9" \/>$/;"	i
+38ea9a3d-e544-4ead-a9ab-8e201d57ca94	.idea/workspace.xml	/^      <changelist id="38ea9a3d-e544-4ead-a9ab-8e201d57ca94" name="Changes" comment="" \/>$/;"	i
+38ea9a3d-e544-4ead-a9ab-8e201d57ca94	.idea/workspace.xml	/^    <list default="true" id="38ea9a3d-e544-4ead-a9ab-8e201d57ca94" name="Changes" comment="" \/>$/;"	i
+Add	.idea/workspace.xml	/^    <ConfirmationsSetting value="1" id="Add" \/>$/;"	i
+Auth0RegisteredEvent	src/main/java/com/microservices/template/app/events/in/Auth0RegisteredEvent.java	/^public class Auth0RegisteredEvent {$/;"	c
+Auth0RegisteredListener	src/main/java/com/microservices/template/app/listeners/Auth0RegisteredListener.java	/^public class Auth0RegisteredListener implements Listener<Auth0RegisteredEvent> {$/;"	c
+Broadcaster	src/main/java/com/microservices/template/app/broadcasters/Broadcaster.java	/^public interface Broadcaster<T> {$/;"	i
+Broadcasters	README.md	/^## Broadcasters$/;"	s
+Command	README.md	/^## Command$/;"	s
+DAO	README.md	/^## DAO$/;"	s
+DEFAULT_DOWNLOAD_URL	.mvn/wrapper/MavenWrapperDownloader.java	/^    private static final String DEFAULT_DOWNLOAD_URL = "https:\/\/repo.maven.apache.org\/maven2\//;"	f	class:MavenWrapperDownloader	file:
+DOWNLOAD_URL	mvnw.cmd	/^set DOWNLOAD_URL="https:\/\/repo.maven.apache.org\/maven2\/io\/takari\/maven-wrapper\/0.5.6\/mav/;"	v
+Default	.idea/workspace.xml	/^    <task active="true" id="Default" summary="Default task">$/;"	i
+ERROR_CODE	mvnw.cmd	/^@endlocal & set ERROR_CODE=%ERROR_CODE%$/;"	v
+ERROR_CODE	mvnw.cmd	/^set ERROR_CODE=0$/;"	v
+ERROR_CODE	mvnw.cmd	/^set ERROR_CODE=1$/;"	v
+EXEC_DIR	mvnw.cmd	/^set EXEC_DIR=%CD%$/;"	v
+Emitter	src/main/java/com/microservices/template/app/broadcasters/emitters/Emitter.java	/^public interface Emitter {$/;"	i
+Emitters	README.md	/^## Emitters$/;"	s
+Entity	README.md	/^## Entity$/;"	s
+ErrorResponse	src/main/java/com/microservices/template/controllers/UsersController.java	/^    public static class ErrorResponse {$/;"	c	class:UsersController
+Events	README.md	/^## Events$/;"	s
+JVM_CONFIG_MAVEN_PROPS	mvnw.cmd	/^@endlocal & set JVM_CONFIG_MAVEN_PROPS=%JVM_CONFIG_MAVEN_PROPS%$/;"	v
+JVM_CONFIG_MAVEN_PROPS	mvnw.cmd	/^for \/F "usebackq delims=" %%a in ("%MAVEN_PROJECTBASEDIR%\\.mvn\\jvm.config") do set JVM_CONFIG/;"	v
+Listener	src/main/java/com/microservices/template/app/listeners/Listener.java	/^public interface Listener<T> {$/;"	i
+Listeners	README.md	/^## Listeners$/;"	s
+MAVEN_CMD_LINE_ARGS	mvnw.cmd	/^set MAVEN_CMD_LINE_ARGS=%*$/;"	v
+MAVEN_OPTS	mvnw.cmd	/^@REM set MAVEN_OPTS=-Xdebug -Xrunjdwp:transport=dt_socket,server=y,suspend=y,address=8000$/;"	v
+MAVEN_PROJECTBASEDIR	mvnw.cmd	/^set MAVEN_PROJECTBASEDIR=%EXEC_DIR%$/;"	v
+MAVEN_PROJECTBASEDIR	mvnw.cmd	/^set MAVEN_PROJECTBASEDIR=%MAVEN_BASEDIR%$/;"	v
+MAVEN_PROJECTBASEDIR	mvnw.cmd	/^set MAVEN_PROJECTBASEDIR=%WDIR%$/;"	v
+MAVEN_WRAPPER_JAR_PATH	.mvn/wrapper/MavenWrapperDownloader.java	/^    private static final String MAVEN_WRAPPER_JAR_PATH =$/;"	f	class:MavenWrapperDownloader	file:
+MAVEN_WRAPPER_PROPERTIES_PATH	.mvn/wrapper/MavenWrapperDownloader.java	/^    private static final String MAVEN_WRAPPER_PROPERTIES_PATH =$/;"	f	class:MavenWrapperDownloader	file:
+Mapper	README.md	/^## Mapper$/;"	s
+MavenWrapperDownloader	.mvn/wrapper/MavenWrapperDownloader.java	/^public class MavenWrapperDownloader {$/;"	c
+OkJHome	mvnw.cmd	/^:OkJHome$/;"	l
+PROPERTY_NAME_WRAPPER_URL	.mvn/wrapper/MavenWrapperDownloader.java	/^    private static final String PROPERTY_NAME_WRAPPER_URL = "wrapperUrl";$/;"	f	class:MavenWrapperDownloader	file:
+QUEUE	src/main/java/com/microservices/template/app/services/RegisterUserService.java	/^    private final String QUEUE = "spring-boot";$/;"	f	class:RegisterUserService	file:
+RabbitMQConfiguration	src/main/java/com/microservices/template/configurations/RabbitMQConfiguration.java	/^public class RabbitMQConfiguration {$/;"	c
+RabbitMQEmitter	src/main/java/com/microservices/template/app/broadcasters/emitters/RabbitMQEmitter.java	/^public class RabbitMQEmitter implements Emitter {$/;"	c
+RegisterUserCommand	src/main/java/com/microservices/template/app/commands/RegisterUserCommand.java	/^    public RegisterUserCommand(String firstName, String lastName, String email) {$/;"	m	class:RegisterUserCommand
+RegisterUserCommand	src/main/java/com/microservices/template/app/commands/RegisterUserCommand.java	/^public class RegisterUserCommand {$/;"	c
+RegisterUserRequest	src/main/java/com/microservices/template/app/requests/RegisterUserRequest.java	/^public class RegisterUserRequest {$/;"	c
+RegisterUserResponse	src/main/java/com/microservices/template/app/responses/RegisterUserResponse.java	/^    private RegisterUserResponse(User user, String message) {$/;"	m	class:RegisterUserResponse	file:
+RegisterUserResponse	src/main/java/com/microservices/template/app/responses/RegisterUserResponse.java	/^public class RegisterUserResponse {$/;"	c
+RegisterUserService	src/main/java/com/microservices/template/app/services/RegisterUserService.java	/^public class RegisterUserService implements RegisterUserUseCase {$/;"	c
+RegisterUserUseCase	src/main/java/com/microservices/template/app/use_cases/RegisterUserUseCase.java	/^public interface RegisterUserUseCase {$/;"	i
+Repositorios	README.md	/^## Repositorios$/;"	s
+Request	README.md	/^## Request$/;"	s
+Response	README.md	/^## Response$/;"	s
+RetrieveUserCommand	src/main/java/com/microservices/template/app/commands/RetrieveUserCommand.java	/^public class RetrieveUserCommand {$/;"	c
+RetrieveUserResponse	src/main/java/com/microservices/template/app/responses/RetrieveUserResponse.java	/^    private RetrieveUserResponse(User user) {$/;"	m	class:RetrieveUserResponse	file:
+RetrieveUserResponse	src/main/java/com/microservices/template/app/responses/RetrieveUserResponse.java	/^public class RetrieveUserResponse {$/;"	c
+RetrieveUserService	src/main/java/com/microservices/template/app/services/RetrieveUserService.java	/^public class RetrieveUserService implements RetrieveUserUseCase {$/;"	c
+RetrieveUserUseCase	src/main/java/com/microservices/template/app/use_cases/RetrieveUserUseCase.java	/^public interface RetrieveUserUseCase {$/;"	i
+Service	README.md	/^## Service$/;"	s
+TemplateApplication	src/main/java/com/microservices/template/TemplateApplication.java	/^public class TemplateApplication {$/;"	c
+TemplateApplicationTests	src/test/java/com/microservices/template/TemplateApplicationTests.java	/^class TemplateApplicationTests {$/;"	c
+UpdateUserCommand	src/main/java/com/microservices/template/app/commands/UpdateUserCommand.java	/^public class UpdateUserCommand {$/;"	c
+UpdateUserRequest	src/main/java/com/microservices/template/app/requests/UpdateUserRequest.java	/^public class UpdateUserRequest {$/;"	c
+UpdateUserResponse	src/main/java/com/microservices/template/app/responses/UpdateUserResponse.java	/^public class UpdateUserResponse {$/;"	c
+UpdateUserService	src/main/java/com/microservices/template/app/services/UpdateUserService.java	/^public class UpdateUserService implements UpdateUserUseCase {$/;"	c
+UpdateUserUseCase	src/main/java/com/microservices/template/app/use_cases/UpdateUserUseCase.java	/^public interface UpdateUserUseCase {$/;"	i
+Use case	README.md	/^## Use case$/;"	s
+User	src/main/java/com/microservices/template/app/entities/User.java	/^public class User {$/;"	c
+User	src/main/java/com/microservices/template/app/responses/RegisterUserResponse.java	/^    static class User {$/;"	c	class:RegisterUserResponse
+User	src/main/java/com/microservices/template/app/responses/RetrieveUserResponse.java	/^    public static class User {$/;"	c	class:RetrieveUserResponse
+UserDAO	src/main/java/com/microservices/template/app/daos/UserDAO.java	/^public class UserDAO {$/;"	c
+UserMapper	src/main/java/com/microservices/template/app/mappers/UserMapper.java	/^public class UserMapper {$/;"	c
+UserRegisteredBroadcaster	src/main/java/com/microservices/template/app/broadcasters/UserRegisteredBroadcaster.java	/^    public UserRegisteredBroadcaster(Emitter emitter) {$/;"	m	class:UserRegisteredBroadcaster
+UserRegisteredBroadcaster	src/main/java/com/microservices/template/app/broadcasters/UserRegisteredBroadcaster.java	/^public class UserRegisteredBroadcaster implements Broadcaster<UserRegisteredEvent> {$/;"	c
+UserRegisteredEvent	src/main/java/com/microservices/template/app/events/out/UserRegisteredEvent.java	/^public class UserRegisteredEvent {$/;"	c
+UserRepository	src/main/java/com/microservices/template/app/repositories/UserRepository.java	/^public interface UserRepository extends CrudRepository<UserDAO, Long> {$/;"	i
+UsersController	src/main/java/com/microservices/template/controllers/UsersController.java	/^public class UsersController {$/;"	c
+Validator	src/main/java/com/microservices/template/app/utils/Validator.java	/^public class Validator<T> {$/;"	c
+WDIR	mvnw.cmd	/^set WDIR=%CD%$/;"	v
+WDIR	mvnw.cmd	/^set WDIR=%EXEC_DIR%$/;"	v
+WRAPPER_JAR	mvnw.cmd	/^set WRAPPER_JAR="%MAVEN_PROJECTBASEDIR%\\.mvn\\wrapper\\maven-wrapper.jar"$/;"	v
+WRAPPER_LAUNCHER	mvnw.cmd	/^set WRAPPER_LAUNCHER=org.apache.maven.wrapper.MavenWrapperMain$/;"	v
+WRAPPER_VERSION	.mvn/wrapper/MavenWrapperDownloader.java	/^    private static final String WRAPPER_VERSION = "0.5.6";$/;"	f	class:MavenWrapperDownloader	file:
+active	src/main/java/com/microservices/template/app/daos/UserDAO.java	/^    private boolean active;$/;"	f	class:UserDAO	file:
+active	src/main/java/com/microservices/template/app/entities/User.java	/^    private boolean active;$/;"	f	class:User	file:
+active	src/main/java/com/microservices/template/app/entities/User.java	/^    public void active() {$/;"	m	class:User
+active	src/main/resources/data.sql	/^    active SMALLINT(1),$/;"	E	table:users
+active	target/classes/data.sql	/^    active SMALLINT(1),$/;"	E	table:users
+artifactId	target/maven-archiver/pom.properties	/^artifactId=template$/;"	k
+auth0Id	src/main/java/com/microservices/template/app/daos/UserDAO.java	/^    private String auth0Id;$/;"	f	class:UserDAO	file:
+auth0Id	src/main/java/com/microservices/template/app/entities/User.java	/^    private String auth0Id;$/;"	f	class:User	file:
+auth0Id	src/main/java/com/microservices/template/app/events/in/Auth0RegisteredEvent.java	/^    private String auth0Id;$/;"	f	class:Auth0RegisteredEvent	file:
+auth0Id	src/main/java/com/microservices/template/app/events/out/UserRegisteredEvent.java	/^    private String auth0Id;$/;"	f	class:UserRegisteredEvent	file:
+auth0_id	src/main/resources/data.sql	/^    auth0_id VARCHAR(24),$/;"	E	table:users
+auth0_id	target/classes/data.sql	/^    auth0_id VARCHAR(24),$/;"	E	table:users
+baseDirFound	mvnw.cmd	/^:baseDirFound$/;"	l
+baseDirNotFound	mvnw.cmd	/^:baseDirNotFound$/;"	l
+broadcast	src/main/java/com/microservices/template/app/broadcasters/Broadcaster.java	/^    public void broadcast(String queue, T message);$/;"	m	interface:Broadcaster
+broadcast	src/main/java/com/microservices/template/app/broadcasters/UserRegisteredBroadcaster.java	/^    public void broadcast(String queue, UserRegisteredEvent message) {$/;"	m	class:UserRegisteredBroadcaster
+com.microservices	pom.xml	/^	<groupId>com.microservices<\/groupId>$/;"	g
+com.microservices.template	src/main/java/com/microservices/template/TemplateApplication.java	/^package com.microservices.template;$/;"	p
+com.microservices.template	src/test/java/com/microservices/template/TemplateApplicationTests.java	/^package com.microservices.template;$/;"	p
+com.microservices.template.shared.broadcasters	src/main/java/com/microservices/template/app/broadcasters/Broadcaster.java	/^package com.microservices.template.shared.broadcasters;$/;"	p
+com.microservices.template.shared.broadcasters	src/main/java/com/microservices/template/app/broadcasters/UserRegisteredBroadcaster.java	/^package com.microservices.template.shared.broadcasters;$/;"	p
+com.microservices.template.shared.broadcasters.emitters	src/main/java/com/microservices/template/app/broadcasters/emitters/Emitter.java	/^package com.microservices.template.shared.broadcasters.emitters;$/;"	p
+com.microservices.template.shared.broadcasters.emitters	src/main/java/com/microservices/template/app/broadcasters/emitters/RabbitMQEmitter.java	/^package com.microservices.template.shared.broadcasters.emitters;$/;"	p
+com.microservices.template.shared.commands	src/main/java/com/microservices/template/app/commands/RegisterUserCommand.java	/^package com.microservices.template.shared.commands;$/;"	p
+com.microservices.template.shared.commands	src/main/java/com/microservices/template/app/commands/RetrieveUserCommand.java	/^package com.microservices.template.shared.commands;$/;"	p
+com.microservices.template.shared.commands	src/main/java/com/microservices/template/app/commands/UpdateUserCommand.java	/^package com.microservices.template.shared.commands;$/;"	p
+com.microservices.template.shared.repositories.repositories.daos	src/main/java/com/microservices/template/app/daos/UserDAO.java	/^package com.microservices.template.shared.repositories.repositories.daos;$/;"	p
+com.microservices.template.shared.entities	src/main/java/com/microservices/template/app/entities/User.java	/^package com.microservices.template.shared.entities;$/;"	p
+com.microservices.template.shared.events.in	src/main/java/com/microservices/template/app/events/in/Auth0RegisteredEvent.java	/^package com.microservices.template.shared.events.in;$/;"	p
+com.microservices.template.shared.broadcasters.events	src/main/java/com/microservices/template/app/events/out/UserRegisteredEvent.java	/^package com.microservices.template.shared.broadcasters.events;$/;"	p
+com.microservices.template.shared.listeners	src/main/java/com/microservices/template/app/listeners/Auth0RegisteredListener.java	/^package com.microservices.template.shared.listeners;$/;"	p
+com.microservices.template.shared.listeners	src/main/java/com/microservices/template/app/listeners/Listener.java	/^package com.microservices.template.shared.listeners;$/;"	p
+com.microservices.template.users.infrastructure.out.persistance.mappers	src/main/java/com/microservices/template/app/mappers/UserMapper.java	/^package com.microservices.template.users.infrastructure.out.persistance.mappers;$/;"	p
+com.microservices.template.shared.repositories	src/main/java/com/microservices/template/app/repositories/UserRepository.java	/^package com.microservices.template.shared.repositories;$/;"	p
+com.microservices.template.users.infrastructure.requests	src/main/java/com/microservices/template/app/requests/RegisterUserRequest.java	/^package com.microservices.template.users.infrastructure.requests;$/;"	p
+com.microservices.template.users.infrastructure.requests	src/main/java/com/microservices/template/app/requests/UpdateUserRequest.java	/^package com.microservices.template.users.infrastructure.requests;$/;"	p
+com.microservices.template.users.application.responses	src/main/java/com/microservices/template/app/responses/RegisterUserResponse.java	/^package com.microservices.template.users.application.responses;$/;"	p
+com.microservices.template.users.application.responses	src/main/java/com/microservices/template/app/responses/RetrieveUserResponse.java	/^package com.microservices.template.users.application.responses;$/;"	p
+com.microservices.template.users.application.responses	src/main/java/com/microservices/template/app/responses/UpdateUserResponse.java	/^package com.microservices.template.users.application.responses;$/;"	p
+com.microservices.template.shared.services	src/main/java/com/microservices/template/app/services/RegisterUserService.java	/^package com.microservices.template.shared.services;$/;"	p
+com.microservices.template.shared.services	src/main/java/com/microservices/template/app/services/RetrieveUserService.java	/^package com.microservices.template.shared.services;$/;"	p
+com.microservices.template.shared.services	src/main/java/com/microservices/template/app/services/UpdateUserService.java	/^package com.microservices.template.shared.services;$/;"	p
+com.microservices.template.shared.use_cases	src/main/java/com/microservices/template/app/use_cases/RegisterUserUseCase.java	/^package com.microservices.template.shared.use_cases;$/;"	p
+com.microservices.template.shared.use_cases	src/main/java/com/microservices/template/app/use_cases/RetrieveUserUseCase.java	/^package com.microservices.template.shared.use_cases;$/;"	p
+com.microservices.template.shared.use_cases	src/main/java/com/microservices/template/app/use_cases/UpdateUserUseCase.java	/^package com.microservices.template.shared.use_cases;$/;"	p
+com.microservices.template.shared.utils	src/main/java/com/microservices/template/app/utils/Validator.java	/^package com.microservices.template.shared.utils;$/;"	p
+com.microservices.template.configurations	src/main/java/com/microservices/template/configurations/RabbitMQConfiguration.java	/^package com.microservices.template.configurations;$/;"	p
+com.microservices.template.controllers	src/main/java/com/microservices/template/controllers/UsersController.java	/^package com.microservices.template.controllers;$/;"	p
+concat_lines	mvnw	/^concat_lines() {$/;"	f
+contextLoads	src/test/java/com/microservices/template/TemplateApplicationTests.java	/^	void contextLoads() {$/;"	m	class:TemplateApplicationTests
+create	src/main/java/com/microservices/template/controllers/UsersController.java	/^    public Object create(@RequestBody RegisterUserRequest request) {$/;"	m	class:UsersController
+dao2Entity	src/main/java/com/microservices/template/app/mappers/UserMapper.java	/^    public User dao2Entity(UserDAO dao) {$/;"	m	class:UserMapper
+distributionUrl	.mvn/wrapper/maven-wrapper.properties	/^distributionUrl=https:\/\/repo.maven.apache.org\/maven2\/org\/apache\/maven\/apache-maven\/3.8.2/;"	k
+downloadFileFromURL	.mvn/wrapper/MavenWrapperDownloader.java	/^    private static void downloadFileFromURL(String urlString, File destination) throws Exception/;"	m	class:MavenWrapperDownloader	file:
+email	src/main/java/com/microservices/template/app/commands/RegisterUserCommand.java	/^    private String email;$/;"	f	class:RegisterUserCommand	file:
+email	src/main/java/com/microservices/template/app/entities/User.java	/^    private String email;$/;"	f	class:User	file:
+email	src/main/java/com/microservices/template/app/requests/RegisterUserRequest.java	/^    private String email;$/;"	f	class:RegisterUserRequest	file:
+email	src/main/java/com/microservices/template/app/responses/RegisterUserResponse.java	/^        private String email;$/;"	f	class:RegisterUserResponse.User	file:
+email	src/main/java/com/microservices/template/app/responses/RetrieveUserResponse.java	/^        private String email;$/;"	f	class:RetrieveUserResponse.User	file:
+email	src/main/java/com/microservices/template/app/responses/UpdateUserResponse.java	/^    private String email;$/;"	f	class:UpdateUserResponse	file:
+emitter	src/main/java/com/microservices/template/app/broadcasters/UserRegisteredBroadcaster.java	/^    private final Emitter emitter;$/;"	f	class:UserRegisteredBroadcaster	file:
+end	mvnw.cmd	/^:end$/;"	l
+endDetectBaseDir	mvnw.cmd	/^:endDetectBaseDir$/;"	l
+endReadAdditionalConfig	mvnw.cmd	/^:endReadAdditionalConfig$/;"	l
+entity2Dao	src/main/java/com/microservices/template/app/mappers/UserMapper.java	/^    public UserDAO entity2Dao(User entity) {$/;"	m	class:UserMapper
+error	mvnw.cmd	/^:error$/;"	l
+errors	src/main/java/com/microservices/template/controllers/UsersController.java	/^        private Set<ConstraintViolation<RegisterUserCommand>> errors;$/;"	f	class:UsersController.ErrorResponse	file:
+execute	src/main/java/com/microservices/template/app/services/RegisterUserService.java	/^    public RegisterUserResponse execute(RegisterUserCommand request) {$/;"	m	class:RegisterUserService
+execute	src/main/java/com/microservices/template/app/services/RetrieveUserService.java	/^    public RetrieveUserResponse execute(RetrieveUserCommand command) throws NotFoundException {$/;"	m	class:RetrieveUserService
+execute	src/main/java/com/microservices/template/app/services/UpdateUserService.java	/^    public UpdateUserResponse execute(UpdateUserCommand command) {$/;"	m	class:UpdateUserService
+execute	src/main/java/com/microservices/template/app/use_cases/RegisterUserUseCase.java	/^    RegisterUserResponse execute(RegisterUserCommand request);$/;"	m	interface:RegisterUserUseCase
+execute	src/main/java/com/microservices/template/app/use_cases/RetrieveUserUseCase.java	/^    public RetrieveUserResponse execute(RetrieveUserCommand command) throws NotFoundException;$/;"	m	interface:RetrieveUserUseCase
+execute	src/main/java/com/microservices/template/app/use_cases/UpdateUserUseCase.java	/^    UpdateUserResponse execute(UpdateUserCommand command);$/;"	m	interface:UpdateUserUseCase
+findBaseDir	mvnw.cmd	/^:findBaseDir$/;"	l
+find_maven_basedir	mvnw	/^find_maven_basedir() {$/;"	f
+firstName	src/main/java/com/microservices/template/app/commands/RegisterUserCommand.java	/^    private String firstName;$/;"	f	class:RegisterUserCommand	file:
+firstName	src/main/java/com/microservices/template/app/commands/UpdateUserCommand.java	/^    private final String firstName;$/;"	f	class:UpdateUserCommand	file:
+firstName	src/main/java/com/microservices/template/app/daos/UserDAO.java	/^    private String firstName;$/;"	f	class:UserDAO	file:
+firstName	src/main/java/com/microservices/template/app/entities/User.java	/^    private String firstName;$/;"	f	class:User	file:
+firstName	src/main/java/com/microservices/template/app/requests/RegisterUserRequest.java	/^    private String firstName;$/;"	f	class:RegisterUserRequest	file:
+firstName	src/main/java/com/microservices/template/app/requests/UpdateUserRequest.java	/^    private String firstName;$/;"	f	class:UpdateUserRequest	file:
+firstName	src/main/java/com/microservices/template/app/responses/RegisterUserResponse.java	/^        private String firstName;$/;"	f	class:RegisterUserResponse.User	file:
+firstName	src/main/java/com/microservices/template/app/responses/RetrieveUserResponse.java	/^        private String firstName;$/;"	f	class:RetrieveUserResponse.User	file:
+firstName	src/main/java/com/microservices/template/app/responses/UpdateUserResponse.java	/^    private String firstName;$/;"	f	class:UpdateUserResponse	file:
+first_name	src/main/resources/data.sql	/^    first_name VARCHAR(256),$/;"	E	table:users
+first_name	target/classes/data.sql	/^    first_name VARCHAR(256),$/;"	E	table:users
+from	src/main/java/com/microservices/template/app/responses/RegisterUserResponse.java	/^    public static RegisterUserResponse from(com.microservices.template.users.domain.User entityU/;"	m	class:RegisterUserResponse
+from	src/main/java/com/microservices/template/app/responses/RetrieveUserResponse.java	/^    public static RetrieveUserResponse from(com.microservices.template.users.domain.User entity)/;"	m	class:RetrieveUserResponse
+from	src/main/java/com/microservices/template/app/responses/UpdateUserResponse.java	/^    public static UpdateUserResponse from(User user) {$/;"	m	class:UpdateUserResponse
+fullName	src/main/java/com/microservices/template/app/entities/User.java	/^    public String fullName() {$/;"	m	class:User
+fullName	src/main/java/com/microservices/template/app/responses/RetrieveUserResponse.java	/^        private String fullName;$/;"	f	class:RetrieveUserResponse.User	file:
+getTemplate	src/main/java/com/microservices/template/app/broadcasters/emitters/RabbitMQEmitter.java	/^    private AmqpTemplate getTemplate(String channel) {$/;"	m	class:RabbitMQEmitter	file:
+groupId	target/maven-archiver/pom.properties	/^groupId=com.microservices$/;"	k
+handle	src/main/java/com/microservices/template/app/listeners/Auth0RegisteredListener.java	/^    public Void handle(Auth0RegisteredEvent message) {$/;"	m	class:Auth0RegisteredListener
+handle	src/main/java/com/microservices/template/app/listeners/Listener.java	/^    public Void handle(T message);$/;"	m	interface:Listener
+id	src/main/java/com/microservices/template/app/commands/RetrieveUserCommand.java	/^    private final Long id;$/;"	f	class:RetrieveUserCommand	file:
+id	src/main/java/com/microservices/template/app/commands/UpdateUserCommand.java	/^    private final Long id;$/;"	f	class:UpdateUserCommand	file:
+id	src/main/java/com/microservices/template/app/daos/UserDAO.java	/^    private Long id;$/;"	f	class:UserDAO	file:
+id	src/main/java/com/microservices/template/app/entities/User.java	/^    private Long id;$/;"	f	class:User	file:
+id	src/main/java/com/microservices/template/app/events/in/Auth0RegisteredEvent.java	/^    private Long id;$/;"	f	class:Auth0RegisteredEvent	file:
+id	src/main/java/com/microservices/template/app/events/out/UserRegisteredEvent.java	/^    private Long id;$/;"	f	class:UserRegisteredEvent	file:
+id	src/main/java/com/microservices/template/app/responses/RegisterUserResponse.java	/^        private Long id;$/;"	f	class:RegisterUserResponse.User	file:
+id	src/main/java/com/microservices/template/app/responses/RetrieveUserResponse.java	/^        private Long id;$/;"	f	class:RetrieveUserResponse.User	file:
+id	src/main/resources/data.sql	/^    id INT AUTO_INCREMENT,$/;"	E	table:users
+id	target/classes/data.sql	/^    id INT AUTO_INCREMENT,$/;"	E	table:users
+init	mvnw.cmd	/^:init$/;"	l
+java.version	pom.xml	/^		<java.version>1.8<\/java.version>$/;"	p
+lastName	src/main/java/com/microservices/template/app/commands/RegisterUserCommand.java	/^    private String lastName;$/;"	f	class:RegisterUserCommand	file:
+lastName	src/main/java/com/microservices/template/app/commands/UpdateUserCommand.java	/^    private final String lastName;$/;"	f	class:UpdateUserCommand	file:
+lastName	src/main/java/com/microservices/template/app/daos/UserDAO.java	/^    private String lastName;$/;"	f	class:UserDAO	file:
+lastName	src/main/java/com/microservices/template/app/entities/User.java	/^    private String lastName;$/;"	f	class:User	file:
+lastName	src/main/java/com/microservices/template/app/requests/RegisterUserRequest.java	/^    private String lastName;$/;"	f	class:RegisterUserRequest	file:
+lastName	src/main/java/com/microservices/template/app/requests/UpdateUserRequest.java	/^    private String lastName;$/;"	f	class:UpdateUserRequest	file:
+lastName	src/main/java/com/microservices/template/app/responses/RegisterUserResponse.java	/^        private String lastName;$/;"	f	class:RegisterUserResponse.User	file:
+lastName	src/main/java/com/microservices/template/app/responses/RetrieveUserResponse.java	/^        private String lastName;$/;"	f	class:RetrieveUserResponse.User	file:
+lastName	src/main/java/com/microservices/template/app/responses/UpdateUserResponse.java	/^    private String lastName;$/;"	f	class:UpdateUserResponse	file:
+last_name	src/main/resources/data.sql	/^    last_name VARCHAR(256),$/;"	E	table:users
+last_name	target/classes/data.sql	/^    last_name VARCHAR(256),$/;"	E	table:users
+main	.mvn/wrapper/MavenWrapperDownloader.java	/^    public static void main(String args[]) {$/;"	m	class:MavenWrapperDownloader
+main	src/main/java/com/microservices/template/TemplateApplication.java	/^	public static void main(String[] args) {$/;"	m	class:TemplateApplication
+message	src/main/java/com/microservices/template/app/responses/RegisterUserResponse.java	/^    private final String message;$/;"	f	class:RegisterUserResponse	file:
+message	src/main/java/com/microservices/template/controllers/UsersController.java	/^        private String message;$/;"	f	class:UsersController.ErrorResponse	file:
+nsbbf684f00101	pom.xml	/^	xsi:schemaLocation="http:\/\/maven.apache.org\/POM\/4.0.0 https:\/\/maven.apache.org\/xsd\/mave/;"	n	uri:http://maven.apache.org/POM/4.0.0
+producerJackson2MessageConverter	src/main/java/com/microservices/template/configurations/RabbitMQConfiguration.java	/^    public Jackson2JsonMessageConverter producerJackson2MessageConverter() {$/;"	m	class:RabbitMQConfiguration
+rabbitTemplate	src/main/java/com/microservices/template/configurations/RabbitMQConfiguration.java	/^    public RabbitTemplate rabbitTemplate(final ConnectionFactory connectionFactory) {$/;"	m	class:RabbitMQConfiguration
+rabbitmq.queue	src/main/resources/application.properties	/^rabbitmq.queue=spring-boot$/;"	k
+rabbitmq.queue	target/classes/application.properties	/^rabbitmq.queue=spring-boot$/;"	k
+registerUserUseCase	src/main/java/com/microservices/template/controllers/UsersController.java	/^    private RegisterUserUseCase registerUserUseCase;$/;"	f	class:UsersController	file:
+registeredMessage	src/main/java/com/microservices/template/app/services/RegisterUserService.java	/^    private String registeredMessage() {$/;"	m	class:RegisterUserService	file:
+retrieveUserUseCase	src/main/java/com/microservices/template/controllers/UsersController.java	/^    private RetrieveUserUseCase retrieveUserUseCase;$/;"	f	class:UsersController	file:
+sendMessage	src/main/java/com/microservices/template/app/broadcasters/emitters/Emitter.java	/^    public void sendMessage(String channel, String event);$/;"	m	interface:Emitter
+sendMessage	src/main/java/com/microservices/template/app/broadcasters/emitters/RabbitMQEmitter.java	/^    public void sendMessage(String channel, String event) {$/;"	m	class:RabbitMQEmitter
+server.port	src/main/resources/application.properties	/^server.port=8081$/;"	k
+server.port	target/classes/application.properties	/^server.port=8081$/;"	k
+show	src/main/java/com/microservices/template/controllers/UsersController.java	/^    public Object show(@PathVariable(name = "id") Long id) {$/;"	m	class:UsersController
+skipRcPost	mvnw.cmd	/^:skipRcPost$/;"	l
+skipRcPre	mvnw.cmd	/^:skipRcPre$/;"	l
+spring.datasource.driverClassName	src/main/resources/application.properties	/^spring.datasource.driverClassName=org.h2.Driver$/;"	k
+spring.datasource.driverClassName	target/classes/application.properties	/^spring.datasource.driverClassName=org.h2.Driver$/;"	k
+spring.datasource.password	src/main/resources/application.properties	/^spring.datasource.password=password$/;"	k
+spring.datasource.password	target/classes/application.properties	/^spring.datasource.password=password$/;"	k
+spring.datasource.url	src/main/resources/application.properties	/^spring.datasource.url=jdbc:h2:mem:architeturedb;DB_CLOSE_ON_EXIT=FALSE$/;"	k
+spring.datasource.url	target/classes/application.properties	/^spring.datasource.url=jdbc:h2:mem:architeturedb;DB_CLOSE_ON_EXIT=FALSE$/;"	k
+spring.datasource.username	src/main/resources/application.properties	/^spring.datasource.username=sa$/;"	k
+spring.datasource.username	target/classes/application.properties	/^spring.datasource.username=sa$/;"	k
+spring.h2.console.enabled	src/main/resources/application.properties	/^spring.h2.console.enabled=true/;"	k
+spring.h2.console.enabled	target/classes/application.properties	/^spring.h2.console.enabled=true/;"	k
+spring.jpa.database-platform	src/main/resources/application.properties	/^spring.jpa.database-platform=org.hibernate.dialect.H2Dialect$/;"	k
+spring.jpa.database-platform	target/classes/application.properties	/^spring.jpa.database-platform=org.hibernate.dialect.H2Dialect$/;"	k
+spring.rabbitmq.host	src/main/resources/application.properties	/^spring.rabbitmq.host=localhost$/;"	k
+spring.rabbitmq.host	target/classes/application.properties	/^spring.rabbitmq.host=localhost$/;"	k
+spring.rabbitmq.password	src/main/resources/application.properties	/^spring.rabbitmq.password=guest$/;"	k
+spring.rabbitmq.password	target/classes/application.properties	/^spring.rabbitmq.password=guest$/;"	k
+spring.rabbitmq.port	src/main/resources/application.properties	/^spring.rabbitmq.port=5672$/;"	k
+spring.rabbitmq.port	target/classes/application.properties	/^spring.rabbitmq.port=5672$/;"	k
+spring.rabbitmq.username	src/main/resources/application.properties	/^spring.rabbitmq.username=guest$/;"	k
+spring.rabbitmq.username	target/classes/application.properties	/^spring.rabbitmq.username=guest$/;"	k
+template	pom.xml	/^	<artifactId>template<\/artifactId>$/;"	a	groupId:com.microservices
+update	src/main/java/com/microservices/template/controllers/UsersController.java	/^    public Object update(@PathVariable(name = "id") Long id, @RequestBody RegisterUserRequest re/;"	m	class:UsersController
+updateUserUseCase	src/main/java/com/microservices/template/controllers/UsersController.java	/^    private UpdateUserUseCase updateUserUseCase;$/;"	f	class:UsersController	file:
+user	src/main/java/com/microservices/template/app/responses/RegisterUserResponse.java	/^    private final User user;$/;"	f	class:RegisterUserResponse	file:
+user	src/main/java/com/microservices/template/app/responses/RetrieveUserResponse.java	/^    private User user;$/;"	f	class:RetrieveUserResponse	file:
+userMapper	src/main/java/com/microservices/template/app/services/RegisterUserService.java	/^    private UserMapper userMapper;$/;"	f	class:RegisterUserService	file:
+userMapper	src/main/java/com/microservices/template/app/services/RetrieveUserService.java	/^    private UserMapper userMapper;$/;"	f	class:RetrieveUserService	file:
+userMapper	src/main/java/com/microservices/template/app/services/UpdateUserService.java	/^    private UserMapper userMapper;$/;"	f	class:UpdateUserService	file:
+userRepository	src/main/java/com/microservices/template/app/services/RegisterUserService.java	/^    private UserRepository userRepository;$/;"	f	class:RegisterUserService	file:
+userRepository	src/main/java/com/microservices/template/app/services/RetrieveUserService.java	/^    private UserRepository userRepository;$/;"	f	class:RetrieveUserService	file:
+userRepository	src/main/java/com/microservices/template/app/services/UpdateUserService.java	/^    private UserRepository userRepository;$/;"	f	class:UpdateUserService	file:
+username	src/main/java/com/microservices/template/app/daos/UserDAO.java	/^    private String username;$/;"	f	class:UserDAO	file:
+username	src/main/resources/data.sql	/^    username VARCHAR(256),$/;"	E	table:users
+username	target/classes/data.sql	/^    username VARCHAR(256),$/;"	E	table:users
+users	src/main/resources/data.sql	/^CREATE TABLE users ($/;"	t
+users	target/classes/data.sql	/^CREATE TABLE users ($/;"	t
+validate	src/main/java/com/microservices/template/app/utils/Validator.java	/^    public Set<ConstraintViolation<T>> validate(T target) {$/;"	m	class:Validator
+version	target/maven-archiver/pom.properties	/^version=0.0.1-SNAPSHOT$/;"	k
+wrapperUrl	.mvn/wrapper/maven-wrapper.properties	/^wrapperUrl=https:\/\/repo.maven.apache.org\/maven2\/io\/takari\/maven-wrapper\/0.5.6\/maven-wrap/;"	k
+xsi	pom.xml	/^	xsi:schemaLocation="http:\/\/maven.apache.org\/POM\/4.0.0 https:\/\/maven.apache.org\/xsd\/mave/;"	n	uri:http://www.w3.org/2001/XMLSchema-instance
+xsi	target/surefire-reports/TEST-com.microservices.template.TemplateApplicationTests.xml	/^<testsuite xmlns:xsi="http:\/\/www.w3.org\/2001\/XMLSchema-instance" xsi:noNamespaceSchemaLocati/;"	n	uri:http://www.w3.org/2001/XMLSchema-instance
